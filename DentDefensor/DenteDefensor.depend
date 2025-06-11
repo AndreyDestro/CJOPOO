@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1748961824 source:c:\users\andre\desktop\dentedefensor\main.cpp
+	"raylib.h"
+	<vector>
+	<string>
+	<cmath>
+	<raymath.h>
+
+1748217241 c:\raylib\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1748217241 c:\raylib\include\raymath.h
+	<math.h>
+
+1749000750 source:c:\users\andre\desktop\teste\main.cpp
+	"raylib.h"
+	<vector>
+	<string>
+	<cmath>
+	<raymath.h>
+	<algorithm>
+	<limits>
+
+1749000750 source:c:\users\andre\desktop\teste - cutzero\main.cpp
+	"raylib.h"
+	<vector>
+	<string>
+	<cmath>
+	<raymath.h>
+	<algorithm>
+	<limits>
+
+1749487706 source:c:\users\andre\desktop\dentdefensor - andreydestro\main.cpp
+	"raylib.h"
+	<vector>
+	<string>
+	<cmath>
+	<raymath.h>
+	<algorithm>
+	<limits>
+
+1749592251 source:c:\users\andre\desktop\dentdefensor\main.cpp
+	"raylib.h"
+	<vector>
+	<string>
+	<cmath>
+	<raymath.h>
+	<algorithm>
+	<limits>
+
