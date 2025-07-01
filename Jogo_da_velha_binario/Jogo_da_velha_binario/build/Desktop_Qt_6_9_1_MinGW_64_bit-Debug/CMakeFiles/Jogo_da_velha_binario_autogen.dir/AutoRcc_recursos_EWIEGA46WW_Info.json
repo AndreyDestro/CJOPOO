@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Jogo_da_velha_binario_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario",
+	"CMAKE_SOURCE_DIR" : "C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Jogo_da_velha_binario_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/imagens/icon_1.png",
+		"C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/imagens/icon_0.png",
+		"C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/imagens/background_pixel_color.png"
+	],
+	"LOCK_FILE" : "C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Jogo_da_velha_binario_autogen.dir/AutoRcc_recursos_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "recursos" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_recursos.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Jogo_da_velha_binario_autogen.dir/AutoRcc_recursos_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/andre/Desktop/Jogo_da_velha_binario/Jogo_da_velha_binario/recursos.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

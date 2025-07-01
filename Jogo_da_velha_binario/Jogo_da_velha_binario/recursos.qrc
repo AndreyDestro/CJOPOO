@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagens/icon_0.png</file>
+        <file>imagens/icon_1.png</file>
+        <file>imagens/background_pixel_color.png</file>
+    </qresource>
+</RCC>
